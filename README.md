@@ -19,14 +19,6 @@ python main.py
 ```
 
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Usage
 
 1. Launch the application:
